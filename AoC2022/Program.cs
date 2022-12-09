@@ -1,1 +1,1 @@
-﻿AoC2022.Day_03.part02(AoC2022.InputData.Day_03.TestData);
+﻿AoC2022.Day_04.part02(AoC2022.InputData.Day_04.TestData);
